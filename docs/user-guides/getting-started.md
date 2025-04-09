@@ -23,15 +23,15 @@ To get started with CosmoHub:
 
 After logging in, you'll be taken to the CosmoHub dashboard where you can:
 
-- Create and manage AI agents
 - Monitor blockchain transactions
 - View analytics and performance metrics
 - Access your API keys and settings
 
 ## Next Steps
 
-Now that you're familiar with the basics, you can:
+Now that you're familiar with the basics, you can explore more features of CosmoHub:
 
-- [Create your first agent](/docs/user-guides/creating-agents)
-- [Explore agent capabilities](/docs/user-guides/agent-capabilities)
-- [Set up automated strategies](/docs/user-guides/automated-strategies) 
+- Create your first AI agent
+- Learn about different agent capabilities
+- Set up automated strategies
+
