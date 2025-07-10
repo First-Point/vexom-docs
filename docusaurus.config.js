@@ -10,12 +10,12 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'CosmoHub Docs',
+  title: 'Vexom Docs',
   tagline: 'Explore the future of blockchain technology with our intelligent AI agents',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://docs.cosmohub.ai',
+  url: 'https://docs.vexom.ai',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -23,7 +23,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'First-Point', // Usually your GitHub org/user name.
-  projectName: 'cosmohub-docs', // Usually your repo name.
+  projectName: 'vexom-docs', // Usually your repo name.
 
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
@@ -46,7 +46,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           // If you want to enable the "edit this page" links, uncomment and update with your repo URL
-          // editUrl: 'https://github.com/First-Point/cosmohub-docs/tree/main/',
+          // editUrl: 'https://github.com/First-Point/vexom-docs/tree/main/',
         },
         blog: false,
         theme: {
@@ -60,16 +60,16 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/cosmohub-social-card.jpg',
+      image: 'img/vexom-social-card.jpg',
       colorMode: {
         defaultMode: 'dark',
         disableSwitch: false,
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'CosmoHub Docs',
+        title: 'Vexom Docs',
         logo: {
-          alt: 'CosmoHub Logo',
+          alt: 'Vexom Logo',
           src: 'img/logo.png',
         },
         items: [
@@ -87,8 +87,8 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://cosmohub.ai',
-            label: 'CosmoHub.ai',
+            href: 'https://vexom.ai',
+            label: 'Vexom.ai',
             position: 'right',
           },
         ],
@@ -114,11 +114,11 @@ const config = {
             items: [
               {
                 label: 'X (Twitter)',
-                href: 'https://x.com/cosmohubai',
+                href: 'https://x.com/vexomai',
               },
               {
                 label: 'Telegram',
-                href: 'https://t.me/cosmohubai',
+                href: 'https://t.me/vexomai',
               },
               {
                 label: 'GitHub',
@@ -126,7 +126,7 @@ const config = {
               },
               {
                 label: 'Arena',
-                href: 'https://arena.social/cosmohubai?ref=cosmohubai',
+                href: 'https://arena.social/vexomai?ref=vexomai',
               },
             ],
           },
@@ -134,8 +134,8 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'CosmoHub.ai',
-                href: 'https://cosmohub.ai',
+                label: 'Vexom.ai',
+                href: 'https://vexom.ai',
               },
               {
                 label: 'First Point',
@@ -148,7 +148,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} CosmoHub. All rights reserved. | Built by First Point`,
+        copyright: `Copyright © ${new Date().getFullYear()} Vexom. All rights reserved. | Built by First Point`,
       },
       prism: {
         theme: prismThemes.github,

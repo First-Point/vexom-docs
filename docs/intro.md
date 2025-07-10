@@ -2,18 +2,18 @@
 sidebar_position: 1
 ---
 
-# CosmoHub Documentation
+# Vexom Documentation
 
-**Welcome to the official documentation for CosmoHub**  
+**Welcome to the official documentation for Vexom**  
 Your all-in-one **platform** for AI-powered agents in DeFi and blockchain gaming.
 
 ---
 
-## **What is CosmoHub?**
+## **What is Vexom?**
 
-**CosmoHub** is a next-generation platform that blends **artificial intelligence** with **blockchain technology**, enabling smart, autonomous agents to simplify and automate interactions within the Web3 ecosystem.
+**Vexom** is a next-generation platform that blends **artificial intelligence** with **blockchain technology**, enabling smart, autonomous agents to simplify and automate interactions within the Web3 ecosystem.
 
-Optimized for scalable networks like **Avalanche**, CosmoHub's agents assist with everything from DeFi investments and token management to NFT utilities and blockchain-based gaming. Users can interact with these agents via natural language or API, removing the complexity of Web3.
+Optimized for scalable networks like **Avalanche**, Vexom's agents assist with everything from DeFi investments and token management to NFT utilities and blockchain-based gaming. Users can interact with these agents via natural language or API, removing the complexity of Web3.
 
 ---
 
@@ -21,7 +21,7 @@ Optimized for scalable networks like **Avalanche**, CosmoHub's agents assist wit
 
 ### 🤖 **AI Agents**
 
-CosmoHub's AI agents are intelligent, task-driven assistants that can:
+Vexom's AI agents are intelligent, task-driven assistants that can:
 - Monitor and interpret real-time blockchain data  
 - Automate DeFi strategies (staking, swapping, yield farming, etc.)  
 - Manage and trade NFTs  
@@ -29,9 +29,7 @@ CosmoHub's AI agents are intelligent, task-driven assistants that can:
 - Conduct safety analysis on smart contracts
 
 Available agents include:
-- **CosmoPlay** – Specialized for blockchain gaming  
-- **Cosmolanche** – Avalanche-native DeFi agent 
-
+- **Vexomanche** – Avalanche-native DeFi agent
 ---
 
 ## **Platform Features**
@@ -47,10 +45,10 @@ Available agents include:
 
 ## Getting Started
 
-Begin your journey with CosmoHub by exploring our key features:
+Begin your journey with Vexom by exploring our key features:
 
 - **AI Agents**: Learn about our intelligent agents that can monitor, analyze, and execute transactions across multiple blockchains
-- **Integration APIs**: Discover how to integrate CosmoHub's capabilities into your own applications
+- **Integration APIs**: Discover how to integrate Vexom's capabilities into your own applications
 - **Trading Strategies**: Explore pre-built strategies or create your own custom trading logic
 
 ## Quick Links
@@ -59,9 +57,9 @@ Begin your journey with CosmoHub by exploring our key features:
 
 ## Join Our Community
 
-Connect with other CosmoHub users and developers:
+Connect with other Vexom users and developers:
 
-- [X (Twitter)](https://x.com/cosmohubai)
-- [Telegram](https://t.me/cosmohubai)
+- [X (Twitter)](https://x.com/vexomai)
+- [Telegram](https://t.me/vexomai)
 - [GitHub](https://github.com/First-Point)
-- [Arena](https://arena.social/cosmohubai?ref=cosmohubai)
+- [Arena](https://arena.social/vexomai?ref=vexomai)
