@@ -1,6 +1,6 @@
-# CosmoHub Documentation
+# Vexom Documentation
 
-This repository contains the official documentation for [CosmoHub](https://cosmohub.ai), a next-generation platform that combines AI with blockchain technology to create intelligent agents for DeFi and Web3 gaming.
+This repository contains the official documentation for [Vexom](https://vexom.ai), a next-generation platform that combines AI with blockchain technology to create intelligent agents for DeFi and Web3 gaming.
 
 ## Local Development
 
@@ -24,19 +24,19 @@ This command generates static content into the `build` directory and can be serv
 
 ## 🌐 Deployment
 
-The documentation is automatically deployed to [docs.cosmohub.ai](https://docs.cosmohub.ai) when changes are pushed to the main branch.
+The documentation is automatically deployed to [docs.vexom.ai](https://docs.vexom.ai) when changes are pushed to the main branch.
 
 ## 🤝 Contributing
 
-We welcome contributions to improve the CosmoHub documentation. Please feel free to submit pull requests or open issues to suggest improvements.
+We welcome contributions to improve the Vexom documentation. Please feel free to submit pull requests or open issues to suggest improvements.
 
 ## 📝 License
 
-Copyright © CosmoHub. All rights reserved.
+Copyright © Vexom. All rights reserved.
 
 ## 🔗 Links
 
-- [CosmoHub Website](https://cosmohub.ai)
-- [Documentation](https://docs.cosmohub.ai)
-- [GitHub Repository](https://github.com/First-Point/cosmohub-docs)
+- [Vexom Website](https://vexom.ai)
+- [Documentation](https://docs.vexom.ai)
+- [GitHub Repository](https://github.com/First-Point/vexom-docs)
 - [First Point](https://firstpoint.com.tr)
