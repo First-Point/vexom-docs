@@ -114,7 +114,7 @@ const config = {
             items: [
               {
                 label: 'X (Twitter)',
-                href: 'https://x.com/vexomai',
+                href: 'https://x.com/vexom_ai',
               },
               {
                 label: 'Telegram',
@@ -126,7 +126,7 @@ const config = {
               },
               {
                 label: 'Arena',
-                href: 'https://arena.social/vexomai?ref=vexomai',
+                href: 'https://arena.social/vexom_ai?ref=vexom_ai',
               },
             ],
           },
