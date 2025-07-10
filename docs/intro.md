@@ -29,7 +29,7 @@ Vexom's AI agents are intelligent, task-driven assistants that can:
 - Conduct safety analysis on smart contracts
 
 Available agents include:
-- **Vexomanche** – Avalanche-native DeFi agent
+- **Vexomavax** – Avalanche-native DeFi agent
 ---
 
 ## **Platform Features**
