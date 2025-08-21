@@ -59,6 +59,8 @@ Execute efficient token swaps across multiple DEXs with intelligent routing and 
 "Execute a swap on YieldYak DEX: 50 AVAX to USDC.e with 0.5% slippage"
 
 "Use ODOS to aggregate the best swap route for 1000 USDC to AVAX"
+
+"Use ODOS to swap multiple tokens to AVAX: 500 USDC and 25 JOE to AVAX in a single transaction"
 ```
 
 ---
