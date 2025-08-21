@@ -195,13 +195,3 @@ To interact with Vexomavax, simply use natural language to describe what you wan
 - Set appropriate slippage tolerance for your trades
 - Keep track of gas costs for your operations
 
----
-
-## Integration and Support
-
-Vexomavax seamlessly integrates with the broader Vexom platform, allowing you to combine its capabilities with other agents and tools. For technical support or advanced use cases, consult our API documentation or reach out to the community.
-
-**Need Help?**
-- Join our [Telegram community](https://t.me/vexomai)
-- Follow us on [X (Twitter)](https://x.com/vexom_ai)
-- Visit our [GitHub](https://github.com/First-Point) for technical resources
