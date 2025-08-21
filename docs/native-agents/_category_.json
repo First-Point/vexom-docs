@@ -1,0 +1,9 @@
+{
+  "label": "Native Agents",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "title": "Native Agents",
+    "description": "**Native Agents** are DeFi-specific AI agents developed by the core Vexom team, each tailored for specific blockchain ecosystems. These specialized agents possess deep integration with their respective chains' protocols, infrastructure, and unique features, enabling optimized performance and comprehensive functionality within each ecosystem.\n\nUnlike general-purpose agents, native agents are built from the ground up with chain-specific expertise, allowing them to leverage native protocols, understand ecosystem nuances, and provide the most efficient pathways for DeFi operations."
+  }
+}
