@@ -84,7 +84,7 @@ Access comprehensive DeFi market data and analytics for informed decision-making
 
 "Find high-yield opportunities on Avalanche with over $10M TVL"
 
-"Compare the TVL growth of Avalanche vs Ethereum DeFi protocols over the last 30 days"
+"Search for USDC yield opportunities on Avalanche"
 
 "Show me the top yielding liquidity pools on Avalanche"
 ```
