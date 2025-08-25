@@ -148,19 +148,4 @@ Our partnerships have resulted in significant user benefits:
 
 ---
 
-## Contact Our Partnership Team
-
-Have questions about partnerships or want to discuss collaboration opportunities?
-
-### **Business Development**
-- **Email**: partnerships@vexom.ai
-- **Telegram**: [Join our Partnership Channel](https://t.me/vexomai)
-- **Twitter**: [@vexom_ai](https://x.com/vexom_ai)
-
-### **Technical Integration**
-- **Email**: tech@vexom.ai
-- **Telegram**: [Technical Support](https://t.me/vexomai)
-
----
-
 **Ready to build the future of Web3 together?** Reach out to explore how we can collaborate to make blockchain technology more accessible and powerful for everyone.
