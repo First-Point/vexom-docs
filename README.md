@@ -1,6 +1,22 @@
 # Vexom Documentation
 
-This repository contains the official documentation for [Vexom](https://vexom.ai), a next-generation platform that combines AI with blockchain technology to create intelligent agents for DeFi and Web3 gaming.
+This repository contains the official end-user documentation for [Vexom](https://vexom.ai), a next-generation platform that combines AI with blockchain technology to create intelligent agents for DeFi and Web3 gaming.
+
+## 📚 About This Documentation
+
+This documentation is specifically designed for **end users** and contains:
+
+- **Platform Information**: Comprehensive guides about Vexom platform features and capabilities
+- **User Guides**: Step-by-step instructions on how to use the platform effectively
+- **Integration Details**: Information about supported protocols and partnerships
+- **Getting Started**: Onboarding materials for new users
+
+**What this documentation does NOT contain:**
+- Source code or technical implementation details
+- Private/confidential information or secrets
+- Internal development processes or technologies used in the project
+
+This is purely educational and informational content to help users understand and effectively use the Vexom platform.
 
 ## Local Development
 
@@ -38,5 +54,4 @@ Copyright © Vexom. All rights reserved.
 
 - [Vexom Website](https://vexom.ai)
 - [Documentation](https://docs.vexom.ai)
-- [GitHub Repository](https://github.com/First-Point/vexom-docs)
 - [First Point](https://firstpoint.com.tr)
