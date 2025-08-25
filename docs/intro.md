@@ -53,7 +53,7 @@ Begin your journey with Vexom by exploring our key features:
 
 ## Quick Links
 
-- [User Guide](/docs/category/user-guide)
+- [User Guide](./category/user-guide)
 
 ## Join Our Community
 

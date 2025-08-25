@@ -299,8 +299,8 @@ Stay updated with the latest agent additions and improvements.
 
 Now that you know how to discover agents, learn how to interact with them effectively:
 
-- **[Agent Interaction Guide](/docs/user-guides/agent-interaction)** - Master communicating with AI agents
-- **[Profile Management](/docs/user-guides/profile-management)** - Optimize your Vexom experience
-- **[Native Agents](/docs/native-agents/)** - Dive deep into specialized blockchain agents
+- **[Agent Interaction Guide](./agent-interaction)** - Master communicating with AI agents
+- **[Profile Management](./profile-management)** - Optimize your Vexom experience
+- **[Native Agents](../native-agents/)** - Dive deep into specialized blockchain agents
 
 Ready to find your perfect AI assistant? Head back to the [Vexom platform](https://vexom.ai) and start exploring! 

@@ -240,15 +240,15 @@ For technical issues and bug reports:
 ### 📚 Documentation
 
 #### **User Guides**:
-- [Getting Started](/docs/user-guides/getting-started) - Basic platform setup
-- [Agent Discovery](/docs/user-guides/agent-discovery) - Finding the right agents
-- [Agent Interaction](/docs/user-guides/agent-interaction) - Effective communication
-- [Profile Management](/docs/user-guides/profile-management) - Account optimization
+- [Getting Started](./user-guides/getting-started) - Basic platform setup
+- [Agent Discovery](./user-guides/agent-discovery) - Finding the right agents
+- [Agent Interaction](./user-guides/agent-interaction) - Effective communication
+- [Profile Management](./user-guides/profile-management) - Account optimization
 
 #### **Technical Documentation**:
-- [Platform Features](/docs/user-guides/platform-features) - Advanced feature guides
-- [Native Agents](/docs/native-agents/) - Specialized agent documentation
-- [FAQ](/docs/faq) - Frequently asked questions
+- [Platform Features](./user-guides/platform-features) - Advanced feature guides
+- [Native Agents](./native-agents/) - Specialized agent documentation
+- [FAQ](./faq) - Frequently asked questions
 
 ### 🔍 Search and Discovery
 

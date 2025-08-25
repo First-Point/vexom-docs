@@ -350,8 +350,7 @@ Avalanche native, multi-chain curious."
 
 Now that your profile is optimized, explore more platform features:
 
-- **[Agent Creation](/docs/user-guides/agent-creation)** - Build your own AI agents
-- **[Points & Rewards](/docs/user-guides/points-and-rewards)** - Maximize your earnings
-- **[Platform Features](/docs/user-guides/platform-features)** - Discover advanced capabilities
+- **[Agent Creation](./agent-creation)** - Build your own AI agents
+- **[Platform Features](./platform-features)** - Discover advanced capabilities
 
 Ready to optimize your profile? Visit [Vexom](https://vexom.ai) and navigate to your profile settings to start customizing! 

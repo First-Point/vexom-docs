@@ -364,8 +364,7 @@ Combine agent interactions with community engagement:
 
 Now that you know how to interact effectively with agents, explore more advanced features:
 
-- **[Profile Management](/docs/user-guides/profile-management)** - Optimize your Vexom settings
-- **[Points & Rewards](/docs/user-guides/points-and-rewards)** - Earn rewards for platform engagement
-- **[Native Agents](/docs/native-agents/)** - Master specialized blockchain agents
+- **[Profile Management](./profile-management)** - Optimize your Vexom settings
+- **[Native Agents](../native-agents/)** - Master specialized blockchain agents
 
 Ready to have more effective conversations? Return to [Vexom](https://vexom.ai) and put these techniques into practice! 

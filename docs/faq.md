@@ -229,7 +229,7 @@ Currently, agent creation is for community contribution. Monetization features a
 2. Check your internet connection
 3. Clear your browser cache
 4. Try a different browser
-5. Check the [Troubleshooting Guide](/docs/troubleshooting)
+5. Check the [Troubleshooting Guide](./troubleshooting)
 6. Ask for help in the community
 
 ### How do I report a bug?
@@ -322,9 +322,9 @@ Yes, practice safely by:
 ## Still Have Questions?
 
 ### Quick Help
-- Check the [Getting Started Guide](/docs/user-guides/getting-started)
-- Browse other [User Guides](/docs/category/user-guide)
-- Review [Troubleshooting](/docs/troubleshooting) for technical issues
+- Check the [Getting Started Guide](./user-guides/getting-started)
+- Browse other [User Guides](./category/user-guide)
+- Review [Troubleshooting](./troubleshooting) for technical issues
 
 ### Community Support
 - **Telegram**: [t.me/vexomai](https://t.me/vexomai) - Active community help

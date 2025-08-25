@@ -193,9 +193,9 @@ Now that you're connected and have tried an agent, explore Vexom's additional fe
 ## Need Help?
 
 ### 📖 **Continue Learning:**
-- [Agent Discovery Guide](/docs/user-guides/agent-discovery) - Find the perfect agent for your needs
-- [Agent Interaction Guide](/docs/user-guides/agent-interaction) - Master agent communication
-- [Profile Management](/docs/user-guides/profile-management) - Optimize your profile settings
+- [Agent Discovery Guide](./agent-discovery) - Find the perfect agent for your needs
+- [Agent Interaction Guide](./agent-interaction) - Master agent communication
+- [Profile Management](./profile-management) - Optimize your profile settings
 
 ### 🆘 **Get Support:**
 - Join our [Telegram community](https://t.me/vexomai)
@@ -203,7 +203,7 @@ Now that you're connected and have tried an agent, explore Vexom's additional fe
 - Visit our [Arena community](https://arena.social/vexom_ai) for discussions
 
 ### ❓ **Common Questions:**
-Check out our [FAQ section](/docs/faq) for answers to the most common user questions.
+Check out our [FAQ section](../faq) for answers to the most common user questions.
 
 ---
 
