@@ -59,6 +59,8 @@ Begin your journey with Vexom by exploring our key features:
 
 Connect with other Vexom users and developers:
 
-- [X (Twitter)](https://x.com/vexom_ai)
-- [Telegram](https://t.me/vexomai)
-- [Arena](https://arena.social/vexom_ai?ref=vexomai)
+- [X (Twitter)](https://x.com/vexom_ai) - Updates and announcements
+- [Telegram](https://t.me/vexomai) - Community support and discussions
+- [Farcaster](https://farcaster.xyz/vexomai) - Decentralized social networking
+- [YouTube](https://www.youtube.com/@vexomai) - Tutorials and platform demos
+- [Arena](https://arena.social/vexom_ai?ref=vexomai) - Professional discussions

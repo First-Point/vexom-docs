@@ -121,8 +121,12 @@ const config = {
                 href: 'https://t.me/vexomai',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/First-Point',
+                label: 'Farcaster',
+                href: 'https://farcaster.xyz/vexomai',
+              },
+              {
+                label: 'YouTube',
+                href: 'https://www.youtube.com/@vexomai',
               },
               {
                 label: 'Arena',

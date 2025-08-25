@@ -317,7 +317,9 @@ For technical issues and bug reports:
 - **Telegram**: [t.me/vexomai](https://t.me/vexomai) - Primary community support
 - **Arena**: [arena.social/vexom_ai](https://arena.social/vexom_ai) - Professional discussions and technical support
 
-#### **Social Media**:
+#### **Social Media & Resources**:
 - **Twitter/X**: [@vexom_ai](https://x.com/vexom_ai) - Platform updates and announcements
+- **Farcaster**: [farcaster.xyz/vexomai](https://farcaster.xyz/vexomai) - Web3 community discussions
+- **YouTube**: [@vexomai](https://www.youtube.com/@vexomai) - Video tutorials and troubleshooting guides
 
 Remember: The Vexom community on Telegram is always ready to help! Don't hesitate to reach out when you need assistance. 

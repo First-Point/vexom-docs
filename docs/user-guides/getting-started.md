@@ -198,9 +198,11 @@ Now that you're connected and have tried an agent, explore Vexom's additional fe
 - [Profile Management](./profile-management) - Optimize your profile settings
 
 ### 🆘 **Get Support:**
-- Join our [Telegram community](https://t.me/vexomai)
-- Follow us on [Twitter/X](https://x.com/vexom_ai) for updates
-- Visit our [Arena community](https://arena.social/vexom_ai) for discussions
+- Join our [Telegram community](https://t.me/vexomai) for real-time help
+- Follow us on [Twitter/X](https://x.com/vexom_ai) for updates  
+- Connect on [Farcaster](https://farcaster.xyz/vexomai) for Web3 discussions
+- Watch [YouTube tutorials](https://www.youtube.com/@vexomai) for visual guides
+- Visit our [Arena community](https://arena.social/vexom_ai) for in-depth discussions
 
 ### ❓ **Common Questions:**
 Check out our [FAQ section](../faq) for answers to the most common user questions.

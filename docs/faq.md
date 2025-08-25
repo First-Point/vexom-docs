@@ -241,8 +241,10 @@ Currently, agent creation is for community contribution. Monetization features a
 ### Where can I get help?
 - **Documentation**: This help site with guides and tutorials
 - **Telegram**: [t.me/vexomai](https://t.me/vexomai) for community support
-- **Arena**: [arena.social/vexom_ai](https://arena.social/vexom_ai) for discussions
 - **Twitter**: [@vexom_ai](https://x.com/vexom_ai) for updates and support
+- **Farcaster**: [farcaster.xyz/vexomai](https://farcaster.xyz/vexomai) for Web3-focused discussions
+- **YouTube**: [@vexomai](https://www.youtube.com/@vexomai) for video tutorials and guides
+- **Arena**: [arena.social/vexom_ai](https://arena.social/vexom_ai) for in-depth discussions
 
 ### How often is the platform updated?
 Vexom is actively developed with:
@@ -328,8 +330,10 @@ Yes, practice safely by:
 
 ### Community Support
 - **Telegram**: [t.me/vexomai](https://t.me/vexomai) - Active community help
-- **Arena**: [arena.social/vexom_ai](https://arena.social/vexom_ai) - Detailed discussions
 - **Twitter**: [@vexom_ai](https://x.com/vexom_ai) - Updates and quick support
+- **Farcaster**: [farcaster.xyz/vexomai](https://farcaster.xyz/vexomai) - Web3 community discussions
+- **YouTube**: [@vexomai](https://www.youtube.com/@vexomai) - Video tutorials and platform demos
+- **Arena**: [arena.social/vexom_ai](https://arena.social/vexom_ai) - Detailed discussions
 
 ### Technical Issues
 - Use community channels for technical support and bug reports
