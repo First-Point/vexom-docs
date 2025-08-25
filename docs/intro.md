@@ -61,5 +61,4 @@ Connect with other Vexom users and developers:
 
 - [X (Twitter)](https://x.com/vexom_ai)
 - [Telegram](https://t.me/vexomai)
-- [GitHub](https://github.com/First-Point)
 - [Arena](https://arena.social/vexom_ai?ref=vexomai)

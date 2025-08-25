@@ -354,4 +354,4 @@ Now that your profile is optimized, explore more platform features:
 - **[Points & Rewards](/docs/user-guides/points-and-rewards)** - Maximize your earnings
 - **[Platform Features](/docs/user-guides/platform-features)** - Discover advanced capabilities
 
-Ready to optimize your profile? Head to your [Vexom profile settings](https://vexom.ai/profile/me) and start customizing! 
+Ready to optimize your profile? Visit [Vexom](https://vexom.ai) and navigate to your profile settings to start customizing! 

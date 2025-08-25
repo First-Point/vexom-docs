@@ -160,7 +160,7 @@ Yes, if you encounter:
 - Security concerns
 - Platform bugs or issues
 
-Report them through our community channels or GitHub issues.
+Report them through our community channels.
 
 ---
 
@@ -233,8 +233,8 @@ Currently, agent creation is for community contribution. Monetization features a
 6. Ask for help in the community
 
 ### How do I report a bug?
-- Visit the [GitHub repository](https://github.com/First-Point)
-- Create a new issue with detailed information
+- Contact our support team through community channels
+- Provide detailed information about the issue
 - Include screenshots if helpful
 - Describe steps to reproduce the problem
 
@@ -332,6 +332,6 @@ Yes, practice safely by:
 - **Twitter**: [@vexom_ai](https://x.com/vexom_ai) - Updates and quick support
 
 ### Technical Issues
-- **GitHub**: [github.com/First-Point](https://github.com/First-Point) - Bug reports and technical issues
+- Use community channels for technical support and bug reports
 
 The Vexom community is friendly and helpful - don't hesitate to ask questions!

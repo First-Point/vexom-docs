@@ -227,12 +227,11 @@ Find solutions to common issues and learn how to get help when using Vexom.
 
 ### 📧 Direct Support
 
-#### **GitHub Issues**
+#### **Community Support**
 For technical issues and bug reports:
-- **Repository**: [github.com/First-Point](https://github.com/First-Point)
-- **Issue Tracking**: Report bugs and technical problems
-- **Feature Requests**: Suggest new features and improvements
-- **Community Contributions**: Help improve the platform
+- **Telegram**: Primary community support channel
+- **Arena**: Professional discussions and detailed support
+- **Social Media**: Updates and quick support through Twitter/X
 
 ---
 
@@ -316,8 +315,7 @@ For technical issues and bug reports:
 
 #### **Community Channels**:
 - **Telegram**: [t.me/vexomai](https://t.me/vexomai) - Primary community support
-- **Arena**: [arena.social/vexom_ai](https://arena.social/vexom_ai) - Professional discussions
-- **GitHub**: [github.com/First-Point](https://github.com/First-Point) - Technical issues
+- **Arena**: [arena.social/vexom_ai](https://arena.social/vexom_ai) - Professional discussions and technical support
 
 #### **Social Media**:
 - **Twitter/X**: [@vexom_ai](https://x.com/vexom_ai) - Platform updates and announcements

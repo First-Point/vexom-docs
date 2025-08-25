@@ -508,4 +508,4 @@ Target Audience: Crypto influencers and marketers
 
 ---
 
-Ready to create your first AI agent? Visit the [Vexom Agent Creation Portal](https://vexom.ai/createAgent) and start building the future of blockchain interaction! 
+Ready to create your first AI agent? Visit [Vexom](https://vexom.ai) and explore the agent creation tools to start building the future of blockchain interaction! 
