@@ -379,10 +379,12 @@ JoePegs integration enables comprehensive NFT operations on Avalanche.
 
 ### 📚 **Learn More**
 
-- [Native Agents Guide](/docs/native-agents/vexomavax) - Deep dive into Vexomavax capabilities
-- [Agent Interaction](/docs/user-guides/agent-interaction) - Master AI agent communication
-- [Security Best Practices](/docs/troubleshooting) - Stay safe while using integrations
+- [Native Agents Guide](./native-agents/vexomavax) - Deep dive into Vexomavax capabilities
+- [Agent Interaction](./user-guides/agent-interaction) - Master AI agent communication
+- [Security Best Practices](./troubleshooting) - Stay safe while using integrations
 
 ---
+
+> **Note**: Integration status and features are subject to change. Verify current capabilities in the [Vexom platform](https://vexom.ai).
 
 **Ready to explore our integrations?** [Start using Vexom](https://vexom.ai) and experience the power of unified Web3 access through AI.

@@ -158,9 +158,8 @@ Have questions about partnerships or want to discuss collaboration opportunities
 - **Twitter**: [@vexom_ai](https://x.com/vexom_ai)
 
 ### **Technical Integration**
-- **Documentation**: Check our [Developer Resources](/docs/category/developer-guides)
-- **GitHub**: [Technical Discussions](https://github.com/First-Point)
-- **Discord**: Join our technical community
+- **Email**: tech@vexom.ai
+- **Telegram**: [Technical Support](https://t.me/vexomai)
 
 ---
 

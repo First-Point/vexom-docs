@@ -268,7 +268,7 @@ Regardless of your user type, Vexom provides:
 ## Getting Started by User Type
 
 ### For Beginners
-1. Start with the [Getting Started Guide](/docs/user-guides/getting-started)
+1. Start with the [Getting Started Guide](./user-guides/getting-started)
 2. Practice with small amounts and simple operations
 3. Use chat agents for education and guidance
 4. Join community channels for support

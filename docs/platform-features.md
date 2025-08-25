@@ -282,9 +282,9 @@ Build your own AI agents tailored to your specific needs and community.
 
 ### 📚 **Feature-Specific Guides**
 
-- [Native Agents](/docs/native-agents/vexomavax) - Deep dive into Vexomavax capabilities
-- [Agent Interaction](/docs/user-guides/agent-interaction) - Master communication with AI agents
-- [Getting Started](/docs/user-guides/getting-started) - Your first steps with Vexom
+- [Native Agents](./native-agents/vexomavax) - Deep dive into Vexomavax capabilities
+- [Agent Interaction](./user-guides/agent-interaction) - Master communication with AI agents
+- [Getting Started](./user-guides/getting-started) - Your first steps with Vexom
 
 ### 🎯 **Feature Recommendations by User Type**
 
