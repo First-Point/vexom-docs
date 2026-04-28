@@ -149,6 +149,10 @@ const config = {
                 label: 'First Point Blog',
                 href: 'https://blog.firstpoint.com.tr/',
               },
+              {
+                label: 'More from First Point',
+                to: '/docs/more-from-first-point',
+              },
             ],
           },
         ],
