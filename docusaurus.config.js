@@ -150,6 +150,10 @@ const config = {
                 href: 'https://blog.firstpoint.com.tr/',
               },
               {
+                label: 'Your Next Tours',
+                href: 'https://yournext.tours/',
+              },
+              {
                 label: 'More from First Point',
                 to: '/docs/more-from-first-point',
               },
